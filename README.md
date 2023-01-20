@@ -1,2 +1,2 @@
 # my-resume <a href="https://sanjaysonkariya.github.io/my-resume/">View</a>
-LEARN TO DRAW ATTRECTIVE RESUME FILE COVER PAGE (This portfolio project create by using HTML &amp; CSS language.)
+LEARN HOW TO CREATE RESPONSIVE & ATTRACTIVE RESUME USING HTML||CSS. (This resume project is created by using HTML &amp; CSS language.)
